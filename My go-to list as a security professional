@@ -1,0 +1,81 @@
+My go-to list as a security professional
+
+Taken from:
+https://www.peerlyst.com/posts/my-go-to-list-as-a-security-professional-steve-hollands
+
+Reverse engineering / malware analysis => ghidra , see this post from Chiheb Chebbi: Getting Started with Reverse Engineering using Ghidra
+
+web fuzzer / directory discovery POST GET and more FFuF https://github.com/ffuf/ffuf:
+
+outlook/exchange abuse : https://github.com/sensepost/ruler
+
+tool for finding attacks in log files or string textfiles : https://github.com/vulnz/facts
+
+Assortiment of tools (my personal favorite list) for different purposes from wireless to dotnet , also countermeasures in this list : https://github.com/The-Art-of-Hacking/h4cker/blob/master/new_tools.md
+
+Automated security testing REST API : ASTRA https://github.com/flipkart-incubator/Astra
+
+Lightweight URL fuzzer, discover a web server's undisclosed files and directories : https://github.com/liamg/scout
+
+another fuzzer : https://github.com/Fuzzapi/fuzzapi
+
+another REST API testing framework : https://github.com/ant4g0nist/Susanoo
+
+free vulnerabilityscanner : https://www.vegabird.com/vooki/
+
+Python API security testing tool from OpenStack Security Group : https://github.com/openstack/syntribos
+
+JSON attacks complete explanation : https://www.blackhat.com/docs/us-17/thursday/
+us-17-Munoz-Friday-The-13th-JSON-Attacks-wp.pdf#page=5
+
+rebel-framework , very cool framework where you can also import your own tools : https://github.com/reb311ion/rebel-framework
+
+simple wireless attack using KARMA : https://github.com/Leviathan36/SKA
+
+Local Privilege Escalation tool: https://github.com/ohpe/juicy-potato
+
+File Inclusion & Directory Traversal fuzzing, enumeration & exploitation tool : https://github.com/chrispetrou/FDsploit
+
+A defense tool - detect web shells in local directories via md5sum : https://github.com/ManhNho/shellsum
+
+Active Directory information dumper via LDAP : https://github.com/dirkjanm/ldapdomaindump
+
+When speed is very important , domain analyser : https://github.com/eldraco/domain_analyzer
+
+This tool queries the emails that registered the domain and verifies if they were leaked in some data leak : https://github.com/0thm4n3/Whoisleak
+
+LFI Fucker : https://github.com/madRubyroid/LFIFucker/blob/master/LFIFucker.sh
+
+Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner : https://github.com/D35m0nd142/LFISuite
+
+A unique automated LFi Exploiter with Bind/Reverse Shells : https://github.com/OsandaMalith/LFiFreak
+
+Pentesting tools : https://pentesting-ics.com/ics-tools/
+
+Apple MITM attack and ARP poisoning scripts : https://github.com/raw-packet/raw-packet
+
+Web application penetration Testing : https://techvomit.net/web-application-penetration-testing-notes/
+
+Raspberry Pi exploitation : https://github.com/x1mdev/ReconPi
+
+Determining filetypes for win, lin and mac : https://github.com/horsicq/Detect-It-Easy
+
+Complete Mandiant Offensive VM (Commando VM), fully customizable Windows-based pentesting virtual machine distribution : https://github.com/fireeye/commando-vm
+
+BurpSuite plugin : https://github.com/PortSwigger/handy-collaborator
+
+passwordcrackers : https://freemobilespy.net/password-cracker/
+
+keylogger Pro : https://www.logixoft.com/en-us/index
+
+Android vulnerability : https://www.blackhatethicalhacking.com/news/unpatched-strandhogg-android-vulnerability-actively-exploited-in-the-wild/
+
+Test your website on all mobile devices :https://dzone.com/articles/test-your-website-on-all-mobile-devices-using-thes
+
+How to hack a phone : https://acisni.com/how-to-hack-a-phone/
+Personal recommendations :
+
+-Use the latest kali linux distro with Invader : https://www.kali.org/
+-Use Burp Suite from portswigger : https://portswigger.net/burp
+
+-Use strong passwordsgenerator and read the 39 points mentioned there to keep your accounts safe : https://passwordsgenerator.net/
