@@ -47,16 +47,11 @@ https://github.com/Prinzhorn/cloud-metadata-services
 CCSP:
 https://www.cybrary.it/course/ccsp/
 
- #Note: recommendation: learn about AWS control tower and aws config . They probably 5-7 years of livelihood in understanding the implications of the "account vending machine/self service cloud" model
-
 Linux AMI Virtualization Types
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html
 
 AWS Certified Cloud Practitioner Training Bootcamp
 https://www.youtube.com/watch?v=h5jaLL0jHSQ&t=9367s
-
-Richard Rea
-Strong working knowledge of modern social media presence
 
 Cloud Flaws Challenges:
 http://flaws.cloud/
