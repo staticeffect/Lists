@@ -1,0 +1,66 @@
+Cloud and Containers Oh My!
+
+Play With Docker:
+https://labs.play-with-docker.com/
+
+Docker for Beginners: Full Course:
+https://www.youtube.com/watch?v=zJ6WbK9zFpI
+
+CrikeyCon 2019 - Sarah Young - How to lose a container in 10 minutes:
+https://www.youtube.com/watch?v=eNEwkTF3058
+
+The Container Operator's Manual - Velocity NY 2018:
+https://www.youtube.com/watch?v=zGw_xKF47T0&app=desktop
+
+edex.org:
+https://courses.edx.org/courses/course-v1:RedHat+DO081x+2T2017/courseware/597d0e32dd6f4793808be8509896cd44/480269e3a2b14b6d920fc3ce74409e32/?child=first
+
+Introduction To CCSK Certification Path:
+https://www.youtube.com/watch?v=Q3UxkWElNQQ&list=PLEiEAq2VkUUIQkfcZ-AP-ciLQcNhBEUvX
+
+Ian Coldwater:
+https://www.youtube.com/results?search_query=Ian+Coldwater
+
+Alex Ivkin - Argghh, yer kubernetes be now a shark bait! - BSides Portland 2019:
+https://www.youtube.com/watch?v=9s5TEXtF09w
+
+ToorCon 21 - DOWN THE SINKHOLE WITH KUBERNETES - Alex Ivkin
+https://www.youtube.com/watch?v=ZeWaKJYcU30&feature=youtu.be
+
+Kubelet mein:
+https://www.4armed.com/blog/kubeletmein-kubelet-hacking-tool/
+
+which-cloud:
+https://github.com/bcoe/which-cloud
+
+Dockerscan:
+https://github.com/cr0hn/dockerscan
+
+install via helm bootchart.tgz
+
+Abusing AWS Metadata Service:
+https://www.emergingdefense.com/blog/2019/1/16/abusing-aws-metadata-service
+
+Cloud Metadata Locations:
+https://github.com/Prinzhorn/cloud-metadata-services
+
+CCSP:
+https://www.cybrary.it/course/ccsp/
+
+ #Note: recommendation: learn about AWS control tower and aws config . They probably 5-7 years of livelihood in understanding the implications of the "account vending machine/self service cloud" model
+
+Linux AMI Virtualization Types
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html
+
+AWS Certified Cloud Practitioner Training Bootcamp
+https://www.youtube.com/watch?v=h5jaLL0jHSQ&t=9367s
+
+Richard Rea
+Strong working knowledge of modern social media presence
+
+Cloud Flaws Challenges:
+http://flaws.cloud/
+http://flaws2.cloud/
+
+AllDay DevOps 2019:
+https://www.alldaydevops.com/ondemand-recordings-2019
